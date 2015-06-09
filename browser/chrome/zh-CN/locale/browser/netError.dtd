@@ -101,9 +101,9 @@
 <!ENTITY malwareBlocked.title "可疑的攻击站点！">
 <!ENTITY malwareBlocked.longDesc " <p>攻击站点尝试通过安装程序来盗取隐私数据、使用您的计算机攻击他人或者破坏您的系统。</p> <p>网站所有者若认为自己的站点被错误地报告为攻击站点，可以<a href='http://www.stopbadware.org/home/reviewinfo' >请求评审</a>。</p> ">
 
-<!ENTITY unwantedBlocked.title "怀疑的恶意软件站点！">
+<!ENTITY unwantedBlocked.title "怀疑的垃圾软件站点！">
 <!ENTITY unwantedBlocked.longDesc "
-<p>恶意软件页面尝试安装可能有欺骗性的软件并以非预期方式影响您的系统。</p>
+<p>垃圾软件页面尝试安装可能有欺骗性的软件并以非预期方式影响您的系统。</p>
 ">
 
 <!ENTITY phishingBlocked.title "可疑的钓鱼网站！">

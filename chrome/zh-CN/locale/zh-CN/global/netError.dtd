@@ -78,9 +78,9 @@
 <!ENTITY phishingBlocked.title "可疑的钓鱼网站！">
 <!ENTITY phishingBlocked.longDesc " <p>在本页面输入个人信息可能会导致账号被盗或其他危险。</p><p>这类钓鱼网站常含有被称为“钓鱼攻击”的诈骗行为，这些伪装的网页或邮件地址可能用来假冒成您信任的源地址以实施诈骗。</p> ">
 
-<!ENTITY unwantedBlocked.title "可疑的恶意软件站点！">
+<!ENTITY unwantedBlocked.title "可疑的垃圾软件站点！">
 <!ENTITY unwantedBlocked.longDesc "
-<p>恶意软件页面尝试安装可能有欺骗性的软件并以非预期方式影响您的系统。</p>
+<p>垃圾软件页面尝试安装可能有欺骗性的软件并以非预期方式影响您的系统。</p>
 ">
 
 <!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
