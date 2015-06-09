@@ -1,6 +1,0 @@
-amazondotcn
-google
-baidu
-wikipedia-zh-CN
-bing
-ddg
