@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "浏览器内容工具箱">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "关闭开发者工具栏">
 <!ENTITY devToolbarMenu.label              "开发者工具栏">
@@ -673,20 +674,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "取消">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "此网站未提供身份标识信息。">
-<!ENTITY identity.connectedTo "您已连接至">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "它的经营者为">
+<!ENTITY identity.connectionSecure "Secure Connection">
+<!ENTITY identity.connectionNotSecure "Connection is Not Secure">
 
 <!ENTITY identity.moreInfoLinkText2 "更多信息…">
 
@@ -864,3 +853,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "添加到阅读列表">
 <!ENTITY readingList.sidebar.add.tooltip          "添加此页面到您的阅读列表">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
++<!ENTITY saveToPocketCmd.label     "Save Page to Pocket">
++<!ENTITY saveToPocketCmd.accesskey "k">
++<!ENTITY saveLinkToPocketCmd.label     "Save Link to Pocket">
++<!ENTITY saveLinkToPocketCmd.accesskey "o">
++<!ENTITY pocketMenuitem.label      "View Pocket List">
