@@ -108,4 +108,4 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
 +     shown in the inspector contextual-menu for the item that lets users take
 +     a screenshot of the currently selected node. -->
-+<!ENTITY inspectorScreenshotNode.label       "Screenshot Node">
++<!ENTITY inspectorScreenshotNode.label       "对此节点截图">

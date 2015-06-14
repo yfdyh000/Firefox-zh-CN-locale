@@ -674,8 +674,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "取消">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.connectionSecure "Secure Connection">
-<!ENTITY identity.connectionNotSecure "Connection is Not Secure">
+<!ENTITY identity.connectionSecure "安全连接">
+<!ENTITY identity.connectionNotSecure "连接不安全">
 
 <!ENTITY identity.moreInfoLinkText2 "更多信息…">
 
@@ -855,8 +855,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "添加此页面到您的阅读列表">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Save Page to Pocket">
+<!ENTITY saveToPocketCmd.label     "保存到Pocket">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Save Link to Pocket">
+<!ENTITY saveLinkToPocketCmd.label     "保存链接到Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "View Pocket List">
+<!ENTITY pocketMenuitem.label      "查看Pocket列表">
