@@ -142,11 +142,11 @@
 <!ENTITY profilerUI.enableFramerate             "记录帧率">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "分析时记录帧率。">
 
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
-<!ENTITY profilerUI.showJITOptimizations             "显示JIT优化">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "在JS调用树的每一框架中显示取样的JIT优化数据。">
+  -  should be recorded. -->
+<!ENTITY profilerUI.enableJITOptimizations             "显示JIT优化">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "在JS调用树的每一框架中显示取样的JIT优化数据。">
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
