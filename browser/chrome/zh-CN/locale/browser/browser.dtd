@@ -676,6 +676,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
+<!ENTITY identity.connectionVerified "&brandShortName; 验证您已安全连接到此网站，其运营者为：">
+<!ENTITY identity.connectionInternal "这是一个安全的 &brandShortName; 页面。">
 
 <!ENTITY identity.moreInfoLinkText2 "更多信息…">
 
