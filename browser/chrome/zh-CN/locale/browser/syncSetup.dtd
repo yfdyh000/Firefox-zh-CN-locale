@@ -112,8 +112,3 @@
 <!ENTITY setup.successPage.title "初始设置完成">
 <!ENTITY changeOptions.label "您可以选择下面的同步选项更改此首选项。">
 <!ENTITY continueUsing.label "您现在可以继续使用 &brandShortName;。">
-
-<!ENTITY fxaSyncDeviceName.label "设备名称”>
-<!ENTITY changeSyncDeviceName.label "更改设备名称">
-<!ENTITY cancelChangeSyncDeviceName.label "取消更改设备名称">
-<!ENTITY saveChangeSyncDeviceName.label "保存设备名称更改">
