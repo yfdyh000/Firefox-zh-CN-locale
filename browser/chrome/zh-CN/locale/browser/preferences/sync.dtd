@@ -73,6 +73,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "您尚未登录。">
+<!ENTITY profilePicture.tooltip      "更改账户图片">
 <!ENTITY signIn.label                "登录">
 <!ENTITY manage.label                "管理">
 <!ENTITY disconnect.label            "断开…">
