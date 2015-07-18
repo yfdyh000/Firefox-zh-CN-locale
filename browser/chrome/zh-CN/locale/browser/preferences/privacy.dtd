@@ -10,7 +10,7 @@
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "详细了解">
 <!ENTITY trackingProtectionPBM.label          "在隐私浏览窗口阻止网站的跟踪行为">
-<!ENTITY trackingProtectionPBM.accesskey      "m">
+<!ENTITY trackingProtectionPBM.accesskey      "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "详细了解">
 <!ENTITY doNotTrackInfo.label           "详细了解">
 
