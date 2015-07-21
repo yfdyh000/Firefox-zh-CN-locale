@@ -10,6 +10,8 @@
 
 <!ENTITY aboutPrivateBrowsing.description      "这包括浏览历史、搜索历史、下载历史、网络表单历史、Cookie，以及临时性互联网文件。不过，您下载的文件与添加的书签将会保留。">
 
+<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; 不会为此窗口记录任何历史，但将保存您下载的所有文件与添加的书签。（请注意您的雇主或网络服务提供商仍然可以跟踪您访问的页面。）">
+
 <!ENTITY aboutPrivateBrowsing.notPrivate       "您当前未处于一个隐私浏览窗口。">
 
 <!ENTITY aboutPrivateBrowsing.moreInfo         "尽管本机将不会记录您的浏览历史，但您的雇主或者互联网服务提供商还是可能追溯您访问过的页面。">
@@ -17,3 +19,15 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "打开隐私浏览窗口">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY trackingProtection.subtitle           "现在伴有跟踪保护">
+
+<!ENTITY trackingProtection.description        "跟踪保护将阻止跟踪您浏览活动的内容，因此您不必担心它们在网站间被分享。">
+
+<!ENTITY trackingProtection.showPreferences    "隐私选项">
+
+<!ENTITY trackingProtection.startTour          "查看更新内容">
+
+<!ENTITY trackingProtection.disabled           "您已关闭跟踪保护。">
+<!ENTITY trackingProtection.enable.label       "打开跟踪保护">
+<!ENTITY trackingProtection.enable.accesskey   "T">
