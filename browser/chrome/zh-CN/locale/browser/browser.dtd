@@ -127,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "退出全屏模式">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "允许">
-<!ENTITY fullscreenExitButton.label "拒绝">
 
 <!ENTITY fullscreenExitHint2.value "随时可以按 ESC 键退出。">
 <!ENTITY leaveDOMFullScreen.label "退出全屏">

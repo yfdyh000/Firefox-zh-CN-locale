@@ -4,15 +4,15 @@
 
 <!ENTITY tracking.label                 "请勿跟踪（DNT）">
 
-<!ENTITY dntTrackingNotOkay.label2      "告诉网站我不想被跟踪">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "阻止网站的跟踪行为">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY dntTrackingNotOkay2.label      "告诉网站我不想被跟踪">
+<!ENTITY dntTrackingNotOkay2.accesskey   "n">
+<!ENTITY doNotTrackInfo.label          "详细了解">
+<!ENTITY trackingProtection2.label       "阻止网站的跟踪行为">
+<!ENTITY trackingProtection2.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "详细了解">
-<!ENTITY trackingProtectionPBM.label          "在隐私浏览窗口阻止网站的跟踪行为">
-<!ENTITY trackingProtectionPBM.accesskey      "y">
+<!ENTITY trackingProtectionPBM2.label          "在隐私浏览窗口阻止网站的跟踪行为">
+<!ENTITY trackingProtectionPBM2.accesskey      "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "详细了解">
-<!ENTITY doNotTrackInfo.label           "详细了解">
 
 <!ENTITY  history.label                 "历史记录">
 
