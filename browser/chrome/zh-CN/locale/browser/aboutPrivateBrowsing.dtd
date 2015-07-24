@@ -28,6 +28,5 @@
 
 <!ENTITY trackingProtection.startTour          "查看更新内容">
 
-<!ENTITY trackingProtection.disabled           "您已关闭跟踪保护。">
 <!ENTITY trackingProtection.enable.label       "打开跟踪保护">
 <!ENTITY trackingProtection.enable.accesskey   "T">
