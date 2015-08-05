@@ -864,18 +864,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.label       "不再询问">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
-<!ENTITY readingList.label                        "阅读列表">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "显示阅读列表侧栏">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "显示更多…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "添加文章到您的阅读列表，保存它们供稍后阅读，便于您在以后找到它们。">
-<!ENTITY readingList.sidebar.delete.tooltip       "从您的阅读列表中移除此项">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "添加到阅读列表">
-<!ENTITY readingList.sidebar.add.tooltip          "添加此页面到您的阅读列表">
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "保存到Pocket">
 <!ENTITY saveToPocketCmd.accesskey "k">
