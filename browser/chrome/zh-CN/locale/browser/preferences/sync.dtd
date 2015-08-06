@@ -83,3 +83,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "创建账户">
 
 <!ENTITY welcome.useOldSync.label "在使用旧版本的同步？">
+
+<!ENTITY signedOut.caption            "将web带在你身边">
+<!ENTITY signedOut.description        "在您所有的设备间同步您的书签、历史记录、标签页、密码、扩展和首选项。">
+<!ENTITY signedOut.accountBox.title   "连接到 &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "创建账户">
+<!ENTITY signedOut.accountBox.signin  "登录">
+
+<!ENTITY signedIn.engines.caption     "在所有设备间同步">
+
+<!ENTITY mobilePromo.start            "下载Firefox给">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "来与您的移动设备同步">
+<!ENTITY androidAttribution           "Android是Google Inc.的商标">
