@@ -32,7 +32,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "缓冲区已满。现在将覆盖较旧的样本。">
+<!ENTITY performanceUI.bufferStatusFull "缓冲区已满。较旧的样本将被覆盖。">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
@@ -58,9 +58,9 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "瀑布">
 <!ENTITY performanceUI.toolbar.js-calltree "调用树">
-<!ENTITY performanceUI.toolbar.memory-calltree "分配情况">
+<!ENTITY performanceUI.toolbar.memory-calltree "分配">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS 火焰图">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "分配情况火焰图">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "分配量火焰图">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -124,8 +124,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableAllocations             "记录分配情况">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "分析期间记录“对象”分配情况。">
+<!ENTITY performanceUI.enableAllocations             "记录分配">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "分析期间记录“对象”分配。">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
