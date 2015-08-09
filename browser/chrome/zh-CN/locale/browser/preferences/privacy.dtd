@@ -10,8 +10,8 @@
 <!ENTITY trackingProtection5.label       "使用跟踪保护">
 <!ENTITY trackingProtection5.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "详细了解">
-<!ENTITY trackingProtectionPBM4.label          "在隐私浏览窗口使用跟踪保护">
-<!ENTITY trackingProtectionPBM4.accesskey      "y">
+<!ENTITY trackingProtectionPBM5.label          "在隐私浏览窗口使用跟踪保护">
+<!ENTITY trackingProtectionPBM5.accesskey      "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "详细了解">
 
 <!ENTITY  history.label                 "历史记录">
