@@ -2,31 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "您已进入隐私浏览模式">
-<!ENTITY aboutPrivateBrowsing.title.normal     "打开一个隐私浏览窗口？">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; 将不对此窗口记录任何历史记录。">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; 不会对隐私窗口保存任何历史记录。">
-
-<!ENTITY aboutPrivateBrowsing.description      "这包括浏览历史、搜索历史、下载历史、网络表单历史、Cookie，以及临时性互联网文件。不过，您下载的文件与添加的书签将会保留。">
-
-<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; 不会为此窗口记录任何历史，但将保存您下载的所有文件与添加的书签。（请注意您的雇主或网络服务提供商仍然可以跟踪您访问的页面。）">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "您当前未处于一个隐私浏览窗口。">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "尽管本机将不会记录您的浏览历史，但您的雇主或者互联网服务提供商还是可能追溯您访问过的页面。">
-<!ENTITY aboutPrivateBrowsing.learnMore        "详细了解。">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "打开隐私浏览窗口">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY trackingProtection.subtitle           "现在伴有跟踪保护">
+<!ENTITY privateBrowsing.title                 "隐私浏览">
 
-<!ENTITY trackingProtection.description        "跟踪保护将阻止跟踪您浏览活动的内容，因此您不必担心它们在网站间被分享。">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!ENTITY aboutPrivateBrowsing.width            "25em">
+<!ENTITY aboutPrivateBrowsing.title            "您已进入隐私浏览模式">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; 将不对此窗口记录任何历史记录。">
+ 
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "忘记">
+<!ENTITY aboutPrivateBrowsing.info.history     "历史记录">
+<!ENTITY aboutPrivateBrowsing.info.search      "搜索">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "临时文件">
 
-<!ENTITY trackingProtection.showPreferences    "隐私选项">
+<!ENTITY aboutPrivateBrowsing.info.kept        "保留">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "下载">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "书签">
 
-<!ENTITY trackingProtection.startTour          "查看更新内容">
+<!ENTITY aboutPrivateBrowsing.note             "您的雇主或网络服务提供商仍能跟踪您访问的页面。">
+<!ENTITY aboutPrivateBrowsing.learnMore        "了解更多。">
 
-<!ENTITY trackingProtection.enable.label       "打开跟踪保护">
-<!ENTITY trackingProtection.enable.accesskey   "T">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "跟踪保护">
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "打开">
+<!ENTITY trackingProtection.state.disabled     "关闭">
+
+<!ENTITY trackingProtection.description.enabled "Private Windows now block content that tracks your browsing activity.">
+<!ENTITY trackingProtection.description.disabled "Private Windows will not block content that tracks your browsing activity.">
+
+<!ENTITY trackingProtection.disable            "关闭跟踪保护">
+<!ENTITY trackingProtection.enable             "打开跟踪保护">
+<!ENTITY trackingProtection.startTour          "查看其工作原理">

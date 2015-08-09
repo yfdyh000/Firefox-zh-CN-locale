@@ -395,6 +395,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "切换到标签页：">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "心想用建议改善您的搜索体验吗？">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "了解更多">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "否">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "是">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -638,6 +643,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
+
 <!ENTITY pageStyleMenu.label "页面样式">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "无样式">
@@ -683,6 +690,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "此页面存储于您的计算机上。">
 <!ENTITY identity.connectionVerified "&brandShortName; 验证您已安全连接到此网站，其运营者为：">
 <!ENTITY identity.connectionInternal "这是一个安全的 &brandShortName; 页面。">
+
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; 已阻止页面上部分不安全的内容。">
+<!ENTITY identity.passiveLoaded "页面上部分内容不安全（如图片）。">
+<!ENTITY identity.activeLoaded "您已在此页面禁用保护。">
+<!ENTITY identity.weakEncryption "此页面使用弱加密。">
+
+<!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "您与此网站的连接不是私密的。他人可以查看您提交的信息（如密码、信息、信用卡等）。">
+<!ENTITY identity.description.weakCipher "您与此网站的连接使用若加密且不是私密的。">
+<!ENTITY identity.description.weakCipher2 "他人可以查看您的信息或更改网页的行为。">
+<!ENTITY identity.description.activeBlocked "&brandShortName; 已阻止页面上不安全的部分内容。">
+<!ENTITY identity.description.passiveLoaded "您与此网站的连接不是私密的，您与网站分享的信息可以被他人看到。">
+<!ENTITY identity.description.passiveLoaded2 "此站点包含不安全的内容（如图片）。">
+<!ENTITY identity.description.passiveLoaded3 "虽然 &brandShortName; 已阻止部分内容，页面上仍有部分不安全的内容（如图片）。">
+<!ENTITY identity.description.activeLoaded "此网站包含不安全内容（如脚本）且您的连接不是私密的。">
+<!ENTITY identity.description.activeLoaded2 "他人可看到您与此站点分享的信息（如密码、信息、信用卡等）。">
+
+<!ENTITY identity.enableMixedContentBlocking.label "启用保护">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "暂时禁用保护">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Learn More">
 
 <!ENTITY identity.moreInfoLinkText2 "更多信息…">
 
