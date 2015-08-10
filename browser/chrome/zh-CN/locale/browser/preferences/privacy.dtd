@@ -8,10 +8,10 @@
 <!ENTITY dntTrackingNotOkay4.accesskey   "n">
 <!ENTITY doNotTrackInfo.label          "详细了解">
 <!ENTITY trackingProtection5.label       "使用跟踪保护">
-<!ENTITY trackingProtection5.accesskey   "m">
+<!ENTITY trackingProtection5.accesskey   "i">
 <!ENTITY trackingProtectionLearnMore.label "详细了解">
 <!ENTITY trackingProtectionPBM5.label          "在隐私浏览窗口使用跟踪保护">
-<!ENTITY trackingProtectionPBM5.accesskey      "y">
+<!ENTITY trackingProtectionPBM5.accesskey      "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "详细了解">
 
 <!ENTITY  history.label                 "历史记录">

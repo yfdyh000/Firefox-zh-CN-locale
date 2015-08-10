@@ -792,19 +792,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "来自页面的音频将被共享。">
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "即使这些内容被阻止，大多数网站仍能正常使用。">
-
-<!ENTITY mixedContentBlocked2.message "不安全内容">
-<!ENTITY mixedContentBlocked2.moreinfo "此网站上的一些未加密的元素已被阻止。">
-<!ENTITY mixedContentBlocked2.learnMore "详细了解">
-<!ENTITY mixedContentBlocked2.options "选项">
-<!ENTITY mixedContentBlocked2.unblock.label "暂时解除保护">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "启用保护">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "保护已禁用">
-
 <!ENTITY trackingProtection.title "跟踪保护">
 <!ENTITY trackingProtection.detectedBlocked3 "跟踪您在线行为的尝试已被阻止。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "发现跟踪元素。您已在此站点关闭保护。">
