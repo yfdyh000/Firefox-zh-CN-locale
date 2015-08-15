@@ -739,8 +739,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "同步">
 
-<!ENTITY syncSetup.label              "设置 &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+<!ENTITY syncSignIn.label              "设置 &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "立即同步">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "重新连接 &syncBrand.shortName.label;…">
