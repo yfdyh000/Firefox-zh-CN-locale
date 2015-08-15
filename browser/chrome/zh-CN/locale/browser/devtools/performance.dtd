@@ -62,6 +62,13 @@
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS 火焰图">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "分配量火焰图">
 
+<!-- LOCALIZATION NOTE (performanceUI.toolbar.*.tooltiptext): These strings are
+  -  displayed as tooltips on buttons that select which view is shown. -->
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "显示记录期间浏览器的不同操作，并以水流形式顺序列出。">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "高亮记录期间浏览器在其上耗时最长的 JavaScript 函数。">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "显示阻滞记录的JavaScript调用。">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "显示记录期间被分配的内存。">
+
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "总耗时">
