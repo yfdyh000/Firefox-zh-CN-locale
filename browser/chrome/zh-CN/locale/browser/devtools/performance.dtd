@@ -88,15 +88,11 @@
 <!ENTITY performanceUI.table.selfAlloc                "自身被采样分配量">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "此位置被采样分配量的对象总数。">
 
-<!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
-  -  on the "" (new tab) button for a profile when a selection is available. -->
-<!ENTITY performanceUI.newtab.tooltiptext "Add new tab from selection">
-
-<!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string
+<!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
 <!ENTITY performanceUI.options.filter.tooltiptext "选择在时间线中要显示哪些数据">
 
-<!-- LOCALIZATION NOTE (performanceUI.options.tooltiptext): This is the tooltip
+<!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the tooltip
   -  for the options button. -->
 <!ENTITY performanceUI.options.gear.tooltiptext "配置性能首选项。">
 

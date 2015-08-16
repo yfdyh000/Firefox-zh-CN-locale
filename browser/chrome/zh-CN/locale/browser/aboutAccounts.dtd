@@ -9,3 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "开始使用">
 <!ENTITY aboutAccountsConfig.useOldSync.label "在使用旧版本的同步？">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "同步选项">
+<!ENTITY aboutAccounts.noConnection.title "没有连接">
+<!ENTITY aboutAccounts.noConnection.description "您必须连接到网络以登录。">
+<!ENTITY aboutAccounts.noConnection.retry "重试">
