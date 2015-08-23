@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "切换到标签页：">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "心想用建议改善您的搜索体验吗？">
+<!ENTITY urlbar.searchSuggestionsNotification.question "您想用建议改善您的搜索体验吗？">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "了解更多">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "否">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "是">
