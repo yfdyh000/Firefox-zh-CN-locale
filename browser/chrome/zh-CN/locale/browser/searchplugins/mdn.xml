@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Mozilla 开发者网络</ShortName>
+<Description>搜索 Mozilla 开发者网络的文档</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,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</Image>
+<Url type="text/html" method="GET" template="https://developer.mozilla.org/zh-CN/search" rel="searchform">
+  <Param name="q" value="{searchTerms}"/>
+  <Param name="w" value="3"/>
+  <Param name="qs" value="plugin"/></Url>
+<Url type="application/opensearchdescription+xml" method="GET" template="https://developer.mozilla.org/zh-CN/search/xml" rel="self" resultDomain="developer.mozilla.org"></Url>
+<Url type="application/x-suggestions+json" method="GET" template="https://developer.mozilla.org/zh-CN/search/suggestions?q={searchTerms}" resultDomain="developer.mozilla.org"></Url>
+</SearchPlugin>
