@@ -471,6 +471,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "更改搜索设置">
 
+<!ENTITY searchInNewTab.label         "在新标签页搜索">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "设置为默认搜索引擎">
+<!ENTITY searchSetAsDefault.accesskey "D">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "在新标签页中打开">
@@ -706,6 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "此页面存储于您的计算机上。">
 <!ENTITY identity.connectionVerified1 "您已安全连接到此网站，其运营者为：">
 <!ENTITY identity.connectionInternal "这是一个安全的 &brandShortName; 页面。">
+<!ENTITY identity.insecureLoginForms "您的连接可能是受损的。">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已阻止页面上部分不安全的内容。">
@@ -715,6 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "您与此网站的连接不是私密的。他人可以查看您提交的信息（如密码、信息、信用卡等）。">
+<!ENTITY identity.description.insecureLoginForms "您键入此页面的登录信息不安全且可能受损。">
 <!ENTITY identity.description.weakCipher "您与此网站的连接使用若加密且不是私密的。">
 <!ENTITY identity.description.weakCipher2 "他人可以查看您的信息或更改网页的行为。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已阻止页面上不安全的部分内容。">

@@ -11,6 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "在地址栏结果中显示搜索建议">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "搜索结果将不会再地址栏结果中显示因为您将&brandShortName;设置为不记录历史。">
 
 <!ENTITY redirectWindowsSearch.label "使用此搜索引擎处理来自Windows的搜索">
 <!ENTITY redirectWindowsSearch.accesskey "W">
