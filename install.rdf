@@ -6,11 +6,11 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id="langpack-zh-CN@firefox.mozilla.org"></em:id>
-    <em:name="Chinese Simplified (zh-CN) Language Pack"></em:name>
-    <em:version="44.0a1"></em:version>
-    <em:type="8"></em:type>
-    <em:creator="lychichem"></em:creator>
+    <em:id>="langpack-zh-CN@firefox.mozilla.org"</em:id>
+    <em:name>="简体中文 (zh-CN) 语言包"</em:name>
+    <em:version>="44.0a1"</em:version>
+    <em:type>="8"</em:type>
+    <em:creator>="lychichem"</em:creator>
     <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor>
     <em:updateURL>https://github.com/lychichem/Firefox-zh-CN-locale/raw/master/Firefox-zh-CN-locale.xpi?raw=true</em:updateURL>
     <em:homepageURL>https://github.com/lychichem/Firefox-zh-CN-locale</em:homepageURL>
