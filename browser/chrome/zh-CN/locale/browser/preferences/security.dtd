@@ -26,8 +26,8 @@
 
 <!ENTITY  logins.label               "登录信息">
 
-<!ENTITY  rememberlogins.label       "记住此站点的登录信息">
-<!ENTITY  rememberlogins.accesskey   "R">
+<!ENTITY  rememberLogins.label       "记住此站点的登录信息">
+<!ENTITY  rememberLogins.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "例外…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "修改主密码…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedlogins.label            "已保存的登录信息…">
-<!ENTITY  savedlogins.accesskey        "P">
+<!ENTITY  savedLogins.label            "已保存的登录信息…">
+<!ENTITY  savedLogins.accesskey        "P">
