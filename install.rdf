@@ -6,10 +6,10 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>langpack-zh-CN@firefox.mozilla.org</em:id>
+    <em:id>langpack-nightly-zh-CN@firefox.mozilla.org</em:id>
     <em:version>44.0a1</em:version>
-    <em:name>Chinese Simplified (zh-CN) Language Pack</em:name>
-    <em:description>3rd party firefox nightly simplified Chinese language pack by lychichem</em:description>
+    <em:name>简体中文 (zh-CN) 语言包</em:name>
+    <em:description>由lychichem提供的Firefox Nightly第三方简体中文语言包</em:description>
     <em:creator>lychichem</em:creator>
     <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor>
     <em:type>8</em:type>
