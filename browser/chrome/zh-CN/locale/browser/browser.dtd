@@ -115,11 +115,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "验证你的账户">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; 已启用">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; 将立即开始同步。">
-<!ENTITY syncErrorPanel.heading "无法连接到 &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "请登录以继续同步。">
-<!ENTITY syncErrorPanel.signInButton.label "登录">
-<!ENTITY syncErrorPanel.signInButton.accesskey "S">
-
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
 <!ENTITY fullScreenRestore.tooltip "还原">
