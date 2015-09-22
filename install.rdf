@@ -12,7 +12,7 @@
                em:type="8"
                em:creator="mozilla.org">
     <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor>
-    <em:updateURL>https://github.com/lychichem/Firefox-zh-CN-locale/blob/master/Firefox-zh-CN-locale.xpi?raw=true</em:updaeURL>
+    <em:updateURL>https://github.com/lychichem/Firefox-zh-CN-locale/blob/master/Firefox-zh-CN-locale.xpi?raw=true</em:updateURL>
     <em:homepageURL>https://github.com/lychichem/Firefox-zh-CN-locale</em:homepageURL>
     <em:targetApplication>
       <Description>
