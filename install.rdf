@@ -13,7 +13,7 @@
     <em:creator>lychichem</em:creator>
     <em:contributor>Wen Shaohua</em:contributor> <em:contributor>Jin Jian</em:contributor> <em:contributor>Rongjun Mu</em:contributor> <em:contributor>Xie Yanbo</em:contributor> <em:contributor>Cathayan</em:contributor>
     <em:type>8</em:type>
-    <em:updateURL>https://raw.githubusercontent.com/lychichem/Firefox-zh-CN-locale/master/update.rdf</em:updateLink>
+    <em:updateURL>https://raw.githubusercontent.com/lychichem/Firefox-zh-CN-locale/master/update.rdf</em:updateURL>
     <em:homepageURL>https://github.com/lychichem/Firefox-zh-CN-locale</em:homepageURL>
     <em:targetApplication>
       <Description>
