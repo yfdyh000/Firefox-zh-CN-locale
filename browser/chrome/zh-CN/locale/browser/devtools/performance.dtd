@@ -35,7 +35,12 @@
 <!ENTITY performanceUI.bufferStatusFull "缓冲区已满。较旧的样本将被覆盖。">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "记录配置目前不可用。请关闭所有隐私浏览窗口并重试。">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "正在载入…">
 
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed

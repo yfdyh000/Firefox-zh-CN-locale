@@ -307,6 +307,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "文件"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "新内容标签">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "私人">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "工作">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "银行">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "购物">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "新建窗口">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
