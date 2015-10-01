@@ -7,7 +7,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>langpack-nightly-zh-CN@firefox.mozilla.org</em:id>
-    <em:version>44.0a1-20150930</em:version>
+    <em:version>44.0a1-20151001</em:version>
     <em:name>简体中文 (zh-CN) 语言包</em:name>
     <em:description>由lychichem提供的Firefox Nightly第三方简体中文语言包</em:description>
     <em:creator>lychichem</em:creator>
