@@ -6,6 +6,12 @@
 
 <!ENTITY  blockPopups.label           "阻止弹出窗口">
 <!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicy.label            "通知">
+<!ENTITY  notificationsPolicyDesc.label        "选择允许显示通知的站点">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "选择……">
+
 <!ENTITY  popupExceptions.label       "例外…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
